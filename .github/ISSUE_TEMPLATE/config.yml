@@ -1,10 +1,8 @@
 blank_issues_enabled: false
-
 contact_links:
   - name: Issue on Template 1
     url: hhttps://github.com/johnM2401/testForms/issues/new?assignees=octocat&labels=bug%2Ctriage&template=issueTemplate.yaml&title=%5BBug%5D%3A+
     about: test 1
-    
   - name: Issue on Template 2
     url: https://github.com/johnM2401/testForms/issues/new?assignees=octocat&labels=bug%2Ctriage&template=issueTemplate2.yaml&title=%5BBug%5D%3A+
     about: test 2
