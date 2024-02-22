@@ -1,4 +1,4 @@
-name: Raise a SuiteCRM 7 Bug
+name: Raise a SuiteCRM 7 Question
 description: Use this if your issue was identified on SuiteCRM 7
 title: "[Question]: "
 labels: ["question", "triage"]
