@@ -1,7 +1,7 @@
 name: Raise a SuiteCRM 7 Bug
 description: Use this if your issue was identified on SuiteCRM 7
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: ["bug", "custom"]
 assignees:
   - octocat
 body:
